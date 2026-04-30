@@ -2,11 +2,11 @@
 
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a generalist engineer with 10 years of experience in consulting, particularly in ERP functional expertise and Tier 3 support
+I am a generalist engineer with 10 years of IT consulting experience, delivering ERP solutions through project implementation and Tier 3 support for Infor M3
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1/2 Analyst.
+My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field. My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 1/2 Analyst.
 
 ## Skills and Project
 
