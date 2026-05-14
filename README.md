@@ -6,7 +6,7 @@ I am a generalist engineer with 10 years of IT consulting experience, delivering
 
 ## Objective
 
-My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field. My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 1/2 Analyst.
+My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field. My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst.
 
 ## Skills and Project
 
