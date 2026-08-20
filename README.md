@@ -1,12 +1,13 @@
-## Hi there , I'm Fl0.py 👋
+## Hi there, I'm Florian aka Fl0.py👋
 
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a generalist engineer with 10 years of IT consulting experience, delivering ERP solutions through project implementation and Tier 3 support for Infor M3
+I am a "generalist" engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience, delivering ERP solutions through project implementation and Tier 3 support
 
-## Objective
+## 🎯 Objective
 
-My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field. My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst.
+My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field.
+My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst.
 
 ## Skills and Project
 
