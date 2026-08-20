@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a "generalist" engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience, delivering ERP solutions through project implementation and Tier 3 support
+I am a "generalist" engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience, from delivering ERP solutions through project implementation to Tier 3 support
 
 ## 🎯 Objective
 
@@ -37,8 +37,9 @@ My goal is to start my career in the industry by joining a Security Operations C
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Degree
 
+M.Eng., EPF Graduate School of Engineering, France
 
 ## Personal Projects
 - SIEM Deployment
