@@ -15,7 +15,7 @@ My goal is to start my career in the industry by joining a Security Operations C
 |-----------------------------------------------|----------------------------|-----------------|
 | MYDFIR Splunk101 Capstone Report          |<a href="https://github.com/Shr3K667/MYDFIR-Splunk101-Capstone-Report">Splunk101-Capstone-Report</a>|Investigated a simulated intrusion (Initial Access → Execution → Persistence → C2) using Splunk. Built detections for brute-force RDP, encoded PowerShell, and external beaconing. Delivered final timeline & report demonstrating SOC analysis workflow|
 
-## Tools
+## 🧰 Tools
 
 ### Network
 <div>
