@@ -7,9 +7,23 @@ I am a "generalist" engineer (M.Eng., 5-year postgraduate degree) with 10 years 
 ## 🎯 Objective
 
 My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field.
-My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst.
+My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst then move a DFIR consultant
 
 ## Skills and Project
+
+| Skill                                         | Associated Project         |Overview         |
+|-----------------------------------------------|----------------------------|-----------------|
+
+
+
+## Project
+
+| Skill                                         | Associated Project         |Overview         |
+|-----------------------------------------------|----------------------------|-----------------|
+| TBD        |TBD | TBD|
+
+
+## Threat Hunt
 
 | Skill                                         | Associated Project         |Overview         |
 |-----------------------------------------------|----------------------------|-----------------|
