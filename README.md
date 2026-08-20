@@ -1,4 +1,4 @@
-## Hi there , I'm Fl0py 👋
+## Hi there , I'm Fl0.py 👋
 
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
