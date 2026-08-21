@@ -10,7 +10,7 @@ My background in computer science has fueled my passion for cybersecurity, and I
 My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst then move a DFIR consultant
 
 
-## Project
+## <a href=https://github.com/Fl0-py/Projects>Projects</a>
 
 |Project                                         | Description         |Tools         |
 |-----------------------------------------------|----------------------------|-----------------|
