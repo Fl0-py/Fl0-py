@@ -9,27 +9,21 @@ I am a "generalist" engineer (M.Eng., 5-year postgraduate degree) with 10 years 
 My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field.
 My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst then move a DFIR consultant
 
-## Skills and Project
-
-| Skill                                         | Associated Project         |Overview         |
-|-----------------------------------------------|----------------------------|-----------------|
-
-
 
 ## Project
 
-| Skill                                         | Associated Project         |Overview         |
+|Project                                         | Description         |Tools         |
 |-----------------------------------------------|----------------------------|-----------------|
 | TBD        |TBD | TBD|
 
 
-## Threat Hunt
+## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
 
-<a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat-Hunt</a>
+
 
 | Skill                                         | Associated Project         |Overview         |
 |-----------------------------------------------|----------------------------|-----------------|
-| MYDFIR Splunk101 Capstone Report          |<a href="https://github.com/Shr3K667/MYDFIR-Splunk101-Capstone-Report">Splunk101-Capstone-Report</a>|Investigated a simulated intrusion (Initial Access → Execution → Persistence → C2) using Splunk. Built detections for brute-force RDP, encoded PowerShell, and external beaconing. Delivered final timeline & report demonstrating SOC analysis workflow|
+| TBD|TBD|TBD|
 
 ## 🧰 Tools
 
