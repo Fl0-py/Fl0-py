@@ -19,7 +19,7 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 | Project | Description |
 |---|---|
 |[`Splunk Entreprise/`](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise) | Deploy and configure, Ingest and parse logs, Create alerts/dashboards and scheduled reports  | 
-|[`Active Directory Environment/`](https://github.com/Fl0-py/Projects/tree/main/Active%20Directory%20Environment)  |  |
+|[`Active Directory Environment/`](https://github.com/Fl0-py/Projects/tree/main/Active%20Directory%20Environment)  | Built a domain environment, joined target machines, configured Splunk Universal Forwarder and Sysmon on all endpoints, simulated RDP brute force with Hydra, executed MITRE ATT&CK techniques with Atomic Red Team, and built Splunk alert rules for real-time detection. |
 
 
 ## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
