@@ -19,8 +19,7 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 | Project | Description | Stack |
 |---|---|---|
 |[`Splunk Entreprise/`](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise) | | | 
-| |  | | 
-|| | | 
+|[`Active Directory Environment/`](https://github.com/Fl0-py/Projects/tree/main/Active%20Directory%20Environment)  |  | | 
 
 
 ## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
