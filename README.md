@@ -27,9 +27,11 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 
 Detection engineering, threat hunting write-ups (MyDFIR community labs), and alert-triage scenarios, all mapped to MITRE ATT&CK.
 
-| Skill                                         | Associated Project         |Overview         |
-|-----------------------------------------------|----------------------------|-----------------|
-| TBD|TBD|TBD|
+| Section | Content | Count |
+|---|---|---|
+| [`detection-queries/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/detection-queries) | Reusable SPL/KQL detection logic, by domain | — |
+| [`hunts/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/hunts) | Hypothesis-driven hunts on MyDFIR lab environments | — |
+| [`scenario-of-the-week/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/scenario-of-the-week) | Alert triage & incident-response scenarios | — |
 
 ## 🧰 Tools
 
