@@ -18,7 +18,7 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 
 | Project | Description | Stack |
 |---|---|---|
-|[`Splunk Entreprise/`]([https://github.com/Fl0-py/Threat-Hunt/tree/main/detection-queries](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise) | | | 
+|[`Splunk Entreprise/`](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise) | | | 
 | |  | | 
 || | | 
 
