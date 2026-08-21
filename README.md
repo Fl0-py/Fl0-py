@@ -1,25 +1,31 @@
-## Hi there, I'm Florian aka Fl0.py👋
+# Hi there, I'm Florian aka Fl0.py 👋
 
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a "generalist" engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience, from delivering ERP solutions through project implementation to Tier 3 support
+I'm a generalist engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience — from ERP project delivery to Tier 3 technical support — now transitioning into cybersecurity.
 
 ## 🎯 Objective
 
-My background in computer science has fueled my passion for cybersecurity, and I am now eager to transition into this field.
-My goal is to start my career in the industry by joining a Security Operations Center (SOC) as a Tier 2/3 Analyst then move a DFIR consultant
+My goal is to join a Security Operations Center as a Tier 2/3 Analyst, then move toward DFIR consulting. 
+I'm building that path through structured home-lab work, hands-on threat hunting on community-built lab
+environments, and deliberate practice on investigation methodology (evidence volatility, ATT&CK mapping, 
+hypothesis-driven hunting).
 
+## 🗂️ Repositories
 
 ## <a href=https://github.com/Fl0-py/Projects>Projects</a>
+Home-lab build-outs demonstrating infrastructure and detection-stack deployment skills.
 
-|Project                                         | Description         |Tools         |
-|-----------------------------------------------|----------------------------|-----------------|
-| TBD        |TBD | TBD|
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Active Directory Lab](https://github.com/Fl0-py/SOC-Projects/tree/main/01-active-directory-lab) | Windows domain built for attack simulation and log generation | VirtualBox, Windows Server, Sysmon | 🔧 In progress |
+| [SIEM Deployment (Splunk)](https://github.com/Fl0-py/SOC-Projects/tree/main/02-siem-splunk-deployment) | Splunk ingestion pipeline, dashboards, and custom detections over Sysmon telemetry | Splunk, Sysmon, Universal Forwarder | 🔧 In progress |
+| [SOAR Automation](https://github.com/Fl0-py/SOC-Projects/tree/main/03-soar-automation) | Automated triage/enrichment playbooks for repetitive SOC tasks | Shuffle / Tines / n8n | 📝 Planned |
 
 
 ## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
 
-
+Detection engineering, threat hunting write-ups (MyDFIR community labs), and alert-triage scenarios, all mapped to MITRE ATT&CK.
 
 | Skill                                         | Associated Project         |Overview         |
 |-----------------------------------------------|----------------------------|-----------------|
@@ -47,11 +53,8 @@ My goal is to start my career in the industry by joining a Security Operations C
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Degree
-
+## 🎓 Background
+ 
 M.Eng., EPF Graduate School of Engineering, France
 
-## Personal Projects
-- SIEM Deployment
-- RDP Detection Lab
 
