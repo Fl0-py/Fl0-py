@@ -17,7 +17,7 @@ hypothesis-driven hunting).
 Home-lab build-outs demonstrating infrastructure and detection-stack deployment skills.
 
 | Project | Description | Stack |
-|---|---|---|---|
+|---|---|---|
 | [Active Directory Lab](https://github.com/Fl0-py/SOC-Projects/tree/main/01-active-directory-lab) | Windows domain built for attack simulation and log generation | VirtualBox, Windows Server, Sysmon | 
 | [SIEM Deployment (Splunk)](https://github.com/Fl0-py/SOC-Projects/tree/main/02-siem-splunk-deployment) | Splunk ingestion pipeline, dashboards, and custom detections over Sysmon telemetry | Splunk, Sysmon, Universal Forwarder | 
 | [SOAR Automation](https://github.com/Fl0-py/SOC-Projects/tree/main/03-soar-automation) | Automated triage/enrichment playbooks for repetitive SOC tasks | Shuffle / Tines / n8n | 
@@ -28,7 +28,7 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 Detection engineering, threat hunting write-ups (MyDFIR community labs), and alert-triage scenarios, all mapped to MITRE ATT&CK.
 
 | Section | Content |
-|---|---|---|
+|---|---|
 | [`detection-queries/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/detection-queries) | Reusable SPL/KQL detection logic, by domain |
 | [`hunts/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/hunts) | Hypothesis-driven hunts on MyDFIR lab environments | 
 | [`scenario-of-the-week/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/scenario-of-the-week) | Alert triage & incident-response scenarios | 
