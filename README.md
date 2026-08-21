@@ -16,10 +16,10 @@ hypothesis-driven hunting).
 ## <a href=https://github.com/Fl0-py/Projects>Projects</a>
 Home-lab build-outs demonstrating infrastructure and detection-stack deployment skills.
 
-| Project | Description | Stack |
-|---|---|---|
-|[`Splunk Entreprise/`](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise) | | | 
-|[`Active Directory Environment/`](https://github.com/Fl0-py/Projects/tree/main/Active%20Directory%20Environment)  |  | | 
+| Project | Description |
+|---|---|
+|[`Splunk Entreprise/`](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise) | Deploy and configure, Ingest and parse logs, Create alerts/dashboards and scheduled reports  | 
+|[`Active Directory Environment/`](https://github.com/Fl0-py/Projects/tree/main/Active%20Directory%20Environment)  |  |
 
 
 ## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
