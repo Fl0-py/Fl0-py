@@ -18,9 +18,9 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Active Directory Lab](https://github.com/Fl0-py/SOC-Projects/tree/main/01-active-directory-lab) | Windows domain built for attack simulation and log generation | VirtualBox, Windows Server, Sysmon | 
-| [SIEM Deployment (Splunk)](https://github.com/Fl0-py/SOC-Projects/tree/main/02-siem-splunk-deployment) | Splunk ingestion pipeline, dashboards, and custom detections over Sysmon telemetry | Splunk, Sysmon, Universal Forwarder | 
-| [SOAR Automation](https://github.com/Fl0-py/SOC-Projects/tree/main/03-soar-automation) | Automated triage/enrichment playbooks for repetitive SOC tasks | Shuffle / Tines / n8n | 
+|[`Splunk Entreprise/`]([https://github.com/Fl0-py/Threat-Hunt/tree/main/detection-queries](https://github.com/Fl0-py/Projects/tree/main/Splunk%20Enterprise)) | | | 
+| |  | | 
+|| | | 
 
 
 ## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
