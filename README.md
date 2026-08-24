@@ -8,7 +8,7 @@ I'm a generalist engineer (M.Eng., 5-year postgraduate degree) with 10 years of 
 
 My goal is to join a Security Operations Center as a Tier 2/3 Analyst, then move toward DFIR consulting. 
 I'm building that path through structured home-lab work, hands-on threat hunting on community-built lab
-environments, and deliberate practice on investigation methodology (evidence volatility, ATT&CK mapping, 
+environments and deliberate practice on investigation methodology (evidence volatility, ATT&CK mapping, 
 hypothesis-driven hunting).
 
 ## 🗂️ Repositories
