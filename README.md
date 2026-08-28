@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a generalist engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience — from ERP project delivery to Tier 3 technical support — now transitioning into cybersecurity.
+I'm a generalist engineer (M.Eng., 5-year postgraduate degree) with 10 years of IT consulting experience — from ERP project Build&Delivery to Tier 3 functional support — now transitioning into cybersecurity.
 
 ## 🎯 Objective
 
@@ -24,7 +24,7 @@ Home-lab build-outs demonstrating infrastructure and detection-stack deployment 
 
 ## <a href=https://github.com/Fl0-py/Threat-Hunt/blob/main/README.md>Threat Hunt</a>
 
-Detection engineering, threat hunting write-ups (MyDFIR community labs), and alert-triage scenarios, all mapped to MITRE ATT&CK.
+Detection engineering, threat hunting write-ups (MyDFIR community labs) and alert-triage scenarios.
 
 | Section | Content |
 |---|---|
@@ -32,7 +32,7 @@ Detection engineering, threat hunting write-ups (MyDFIR community labs), and ale
 | [`hunts/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/hunts) | Hypothesis-driven hunts on MyDFIR lab environments | 
 | [`scenario-of-the-week/`](https://github.com/Fl0-py/Threat-Hunt/tree/main/scenario-of-the-week) | Alert triage & incident-response scenarios | 
 
-## 🧰 Tools
+## 🧰 Tools on-hand
 
 ### Network
 <div>
@@ -56,6 +56,8 @@ Detection engineering, threat hunting write-ups (MyDFIR community labs), and ale
 
 ## 🎓 Background
  
-M.Eng., EPF Graduate School of Engineering, France
+Metacognition & Learning Science., ICS (I Can Study) Program, since Feb. 2024
+Senior support consulant, 3Kles-consulting, since Dec. 2016
+M.Eng., EPF Graduate School of Engineering, 2016
 
 
