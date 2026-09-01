@@ -56,7 +56,7 @@ Detection engineering, threat hunting write-ups (MyDFIR community labs) and aler
 
 ## 🎓 Background
  
-- Metacognition & Learning Science., ICS (I Can Study) Program, since Feb. 2024
+- Metacognition & Learning Science, ICS (I Can Study) Program, since Feb. 2024
 - Senior support consulant, 3Kles-consulting, since Dec. 2016
 - M.Eng., EPF Graduate School of Engineering, 2016
 
